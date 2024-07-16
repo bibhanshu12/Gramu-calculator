@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gramu_Calculator</string>
+    <string name="cost1">Enter material cost (Kg)</string>
+    <string name="gm1">Enter grams for rate.</string>
+    <string name="btn1">Calculate Rate</string>
+    <string name="res1">  </string>
+
+
+</resources>
